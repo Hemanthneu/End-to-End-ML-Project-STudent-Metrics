@@ -1,7 +1,7 @@
 **🔍End-to-End Production Grade ML Project**
 
 **Student Performance Prediction for Machine Learning Model**
-![Logo](https://example.com/images/logo.png](https://github.com/Hemanthneu/End-to-End-ML-Project-Student-Metrics/blob/master/MLOps%20Process.png)
+![Logo]([https://example.com/images/logo.png](https://github.com/Hemanthneu/End-to-End-ML-Project-Student-Metrics/blob/master/MLOps%20Process.png](https://github.com/Hemanthneu/End-to-End-ML-Project-Student-Metrics/blob/master/MLOps%20Process.png)
 
 This project adopts a modular coding approach, leveraging various technologies to build an end-to-end solution. The primary technologies used in this project include:
 
