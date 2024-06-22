@@ -30,5 +30,5 @@ This project adopts a modular coding approach, leveraging various technologies t
 **⚙️Azure Web App:** is a managed PaaS that simplifies building, deploying, and scaling web applications. It supports multiple languages, offers automatic scaling and load balancing, and integrates with CI/CD tools for streamlined deployments.
 
 # AWS-CICD-Deployment-with-Github-Actions
-![Logo](https://github.com/Hemanthneu/End-to-End-ML-Project-Student-Metrics/blob/master/US%20VISA%20AWS%20Architechture%20Deployment.jpg)
+![Logo](https://github.com/Hemanthneu/End-to-End-ML-System/blob/master/MLOps%20Process.png)
 
